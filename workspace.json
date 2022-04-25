@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "forum": "apps/forum",
+    "forum-e2e": "apps/forum-e2e"
+  }
+}
